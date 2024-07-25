@@ -40,7 +40,10 @@ h1 {
 .box:hover {
     cursor: pointer;
     background-color:  rgb(146, 139, 139);
-}    
+} 
+.box:active {
+    background-color: rgb(211, 136, 44);
+}
 #rst {
     padding: 1rem;
     border-radius: 1rem;
